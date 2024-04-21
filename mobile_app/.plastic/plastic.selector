@@ -1,0 +1,4 @@
+repository "mobile_app@rabarberzz@cloud"
+  path "/"
+    br "/main"
+    co "/main"
